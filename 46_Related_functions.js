@@ -1,4 +1,4 @@
-// let reg = /chait/g; //Thsi is regular expression
+// let reg = /chait/g; //This is regular expression
 
 // console.log(reg);
 // console.log(reg.source)//IT will print what inside the red expression
